@@ -1,5 +1,11 @@
 # Quang Jimmy
-Canadian freelance developer working on contracts and my own ideas. I am a big advocate of internet security and privacy. I have an interest in cryptography and decentralized currency systems. I primarily work with React/Next.js in Typescript for client-side applications. My favorite server-side technologies include Node.js with Express.js, along with cloud services such as Firebase or AWS.
+🇨🇦 Canadian freelance developer working on contracts and my own ideas. 
+<br>
+👤 I am a big advocate of internet security and privacy. I have an interest in cryptography and decentralized currency systems. 
+<br>
+📱 I primarily work with React/Next.js in Typescript for client-side applications. 
+<br>
+💻 My favorite server-side technologies include Node.js with Express.js, along with cloud services such as Firebase or AWS.
 
 ## Technologies
 
